@@ -4,7 +4,7 @@ I'm in charge of development for Insalan, managing the team working on the Websi
 I'm also volunteer dev and board member for "Night Fury", an association based on competitive video-games, old translator of "Mindustry" and a lot of other cool things 🥳<br>
 Among them, I've created [Rank Up lol](https://rankup.somi.blaisot.org/), a league of legends stats discord bot, feel free to check it out.
 
-If you want to contact me, my discord MP are opens : kwikkill !
+If you want to contact me, my discord MP are open : kwikkill !
 
 
 ## 🌐 Socials:
