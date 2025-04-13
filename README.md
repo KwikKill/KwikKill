@@ -1,11 +1,14 @@
 # 💫 About Me:
-Student in Computer science in INSA Rennes, France, I develop stuff in my free time 👋 <br>
-I'm in charge of development for Insalan, managing the team working on the Website and writing too much codes way too close of the deadlines 😅<br>
-I'm also volunteer dev and board member for "Night Fury", an association based on competitive video-games, old translator of "Mindustry" and a lot of other cool things 🥳<br>
-Among them, I've created [Rank Up lol](https://rankup.somi.blaisot.org/), a league of legends stats discord bot, feel free to check it out.
+Student in Computer Science at INSA Rennes, France, I develop stuff in my free time 👋<br>
+I enjoy working on web and software projects, especially when there’s a creative or community-driven side to them.<br>
+In the past, I was in charge of development for Insalan (a French LAN party) and was a board member of the Night Fury association focused on competitive gaming.<br>
+I've also contributed to the translation of "Mindustry", and worked on lots of side projects — some chaotic, some cool 🥳<br>
+Among them, I've created [Rank Up lol](https://rankup.somi.blaisot.org/), a League of Legends stats Discord bot — feel free to check it out!
 
-If you want to contact me, my discord MP are open : kwikkill !
+🌐 **Check out my portfolio**: [gabriel.blaisot.org](https://gabriel.blaisot.org)  
+It includes my projects, experience, and a bit more about what I do!
 
+If you want to contact me, my Discord DMs are open: **kwikkill** !
 
 ## 🌐 Socials:
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me) : kwikkill
