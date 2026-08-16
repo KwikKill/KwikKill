@@ -1,14 +1,14 @@
 # 💫 About Me:
-Student in Computer Science at INSA Rennes, France, I develop stuff in my free time 👋<br>
-I enjoy working on web and software projects, especially when there’s a creative or community-driven side to them.<br>
+Web developer at Sopra Steria, France, I develop stuff in my free time 👋<br>
+I enjoy working on web and software projects, especially when there's a creative or community-driven side to them.<br>
 In the past, I was in charge of development for Insalan (a French LAN party) and was a board member of the Night Fury association focused on competitive gaming.<br>
-I've also contributed to the translation of "Mindustry", and worked on lots of side projects — some chaotic, some cool 🥳<br>
-Among them, I've created [Rank Up lol](https://rankup.somi.blaisot.org/), a League of Legends stats Discord bot — feel free to check it out!
+I've also contributed to the translation of "Mindustry", and worked on lots of side projects, some chaotic, some cool 🥳<br>
+Among them, I've created Rank Up lol, a League of Legends stats Discord bot, feel free to check it out!
 
-🌐 **Check out my portfolio**: [gabriel.blaisot.org](https://gabriel.blaisot.org)  
+🌐 Check out my portfolio: gabriel.blaisot.org
 It includes my projects, experience, and a bit more about what I do!
 
-If you want to contact me, my Discord DMs are open: **kwikkill** !
+If you want to contact me, my Discord DMs are open: kwikkill !
 
 ## 🌐 Socials:
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me) : kwikkill
@@ -33,8 +33,9 @@ If you want to contact me, my Discord DMs are open: **kwikkill** !
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
 
 ## Web Development:
-
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -47,7 +48,6 @@ If you want to contact me, my Discord DMs are open: **kwikkill** !
 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
 ## Databases:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
