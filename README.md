@@ -1,9 +1,9 @@
 # 💫 About Me:
 Web developer at Sopra Steria, France, I develop stuff in my free time 👋<br>
 I enjoy working on web and software projects, especially when there's a creative or community-driven side to them.<br>
-In the past, I was in charge of development for Insalan (a French LAN party) and was a board member of the Night Fury association focused on competitive gaming.<br>
+I was in charge of development for Insalan (a French LAN party) and was a board member of the Night Fury association focused on competitive gaming.<br>
 I've also contributed to the translation of "Mindustry", and worked on lots of side projects, some chaotic, some cool 🥳<br>
-Among them, I've created Rank Up lol, a League of Legends stats Discord bot, feel free to check it out!
+Among them, I've created Rank Up lol, a League of Legends stats Discord bot with 500+ users, feel free to check it out!
 
 🌐 Check out my portfolio: gabriel.blaisot.org
 It includes my projects, experience, and a bit more about what I do!
